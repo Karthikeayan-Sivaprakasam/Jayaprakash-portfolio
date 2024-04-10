@@ -500,7 +500,7 @@ a
 	background-color: black;
 	position:absolute;
 	align-items: center;
-	left: 25vh;
+	left: 17vh;
 	top: 2vh;
 
 }
@@ -539,8 +539,8 @@ a
 
 	.achivements
 {	
-	padding-top: 24vh;
-	height: 200vh;
+	padding-top: 21vh;
+	height: 144vh;
 	width: 100vw;
 	display: flex;
 	flex-direction: column;
